@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imjustmalak
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning .cs
+- 🌱 I’m currently coding my life :)
 -
 
 
